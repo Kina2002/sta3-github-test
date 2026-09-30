@@ -1,0 +1,7 @@
+.build/node_modules/
+.build/.codex-finalizer/
+.build/*.pptx
+.build/*.ndjson
+.build/*.png
+.build/*.json
+.build/*.txt
